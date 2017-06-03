@@ -1,7 +1,0 @@
-{
-	"shell_cmd": "make"
-	"shell_cmd": "javac ex1.java"
-	"shell_cmd": "java ex1"
-
-
-}
